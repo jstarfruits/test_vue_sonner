@@ -46,6 +46,3 @@ Ensure you have the following installed:
 
    Open your browser and navigate to [http://localhost:8888](http://localhost:8888) to see the issue reproduction.
 
-## Additional Notes
-
-Ensure all necessary environment configurations are correctly set up in `.env`. If you encounter issues, refer to the official Laravel and Vue documentation for troubleshooting tips.
